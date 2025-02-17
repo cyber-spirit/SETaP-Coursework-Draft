@@ -9,7 +9,7 @@ The requirements for our project can be found in :doc: 'requirements' section.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development and is not yet finished.
 
 Contents
 --------
