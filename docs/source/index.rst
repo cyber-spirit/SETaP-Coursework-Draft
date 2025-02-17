@@ -6,6 +6,7 @@ By Group 6C
 Synergy is made to make societies *simplier* by offering an easy to understand service.
 
 The requirements for our project can be found in :doc: 'requirements' section.
+A guide for setting up this project can be found in :doc: 'setup.rst' section.
 
 .. note:::
 
@@ -16,3 +17,4 @@ Contents
 
 .. toctree::
    requirements
+   setup.rst
